@@ -1,0 +1,65 @@
+*** C3 Changelog ***
+
+
+ 2010.04.05 - version 1.0.0
+ * First release!
+ 
+ 2010.06.11 - version 1.0.2
+ * Fixed bug with post and page slider
+ * Fixed bug with importing serialized metaoptions
+
+ 2010.07.01 - version 1.0.3
+ * Compatible with 3.0
+
+ 2010.09.17 - version 1.0.5
+ * Fixed bug with image title in get_image.php
+
+ 2010.09.23 - version 1.0.6
+ * Fixed bug with sendmail.php on windows servers
+
+ 2010.09.26 - version 1.0.7
+ * Fixed bug in save_options.php with post slider image delete
+
+ 2010.10.13 - version 1.0.8
+ * Added new FuseFramework design
+
+ 2010.12.29 - version 1.0.9
+ * Fixed bug regarding homepage slider when js loading
+
+ 2011.1.12 - version 1.0.10
+ * Fixed issue regarding display notice and warning when debug mode is set
+
+ 2011.02.26 - version 1.0.11
+ * Compatible with 3.1
+
+ 2011.04.04 - version 1.0.12
+ * Compatible with Internet Explorer 9
+
+ 2011.04.11 - version 1.0.13
+ * Fixed SEO issue
+
+ 2011.04.21 - version 1.0.14
+ * Activate/Deactivate SEO option
+
+ 2011.05.2 - version 1.0.15
+ * Wordpress importer problem fixed
+ 
+ 2011.05.10 - version 1.0.16
+ * Implemented localization functionality
+
+ 2011.05.10 - version 1.0.17
+  * Fixed Homepage Blog Pagination
+
+ 2011.06.21 - version 1.0.18
+ * Fixed conflict with change_link function for e-commerce plugin
+ * Added option for translating custom fields with qtranslate
+
+ 2011.10.14 - version 1.0.19
+ * Removed jquery.cookies.js file
+ * Added possibility to upload image for post preview from post options
+ * Solved Problem with Sidebars
+
+ 2012.02.09 - version 1.0.20
+ * Solved problem with XSS vulnerability in search form.
+ * Updated install function.
+ * Updated thumb.php to 2.8.6 version
